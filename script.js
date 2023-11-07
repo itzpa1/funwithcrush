@@ -11,7 +11,9 @@ function myfunction() {
         pcScrn();
     }
 }
-\
+
+myfunction();
+
 // this function is for mobile screen
 function mobileScrn() {
 
